@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm abderraouf KECIRA !
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/RbDKaczqWovIugyJmW">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Computer science student at the University of Science and Technology Houari Boumedienne, Algeria <br/>
 🎨 Making videos about How to learn, study tips, and productivity on [Instagram](https://www.instagram.com/growmindlab/)<br/>
