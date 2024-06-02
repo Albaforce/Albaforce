@@ -1,9 +1,10 @@
-
-# 👋 Hi, I'm abderraouf KECIRA !
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Computer science student at the University of Science and Technology Houari Boumedienne, Algeria <br/>
-🎨 Making videos about How to learn, study tips, and productivity on [Instagram](https://www.instagram.com/growmindlab/)<br/>
-🌷 Currently learning about BackEnd, GameDev and robotics<br/>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm abderraouf KECIRA</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+- 👩🏻‍🎓 Computer science student at the University of Science and Technology Houari Boumedienne, Algeria <br/>
+- 🎨 Making videos about How to learn, study tips, and productivity on [Instagram](https://www.instagram.com/growmindlab/)<br/>
+- 🌷 Currently learning about BackEnd, GameDev and robotics<br/>
 
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
